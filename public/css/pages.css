@@ -1,0 +1,32 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding: 0 100px;
+    background-color: #212529;
+    color: #ffffff;
+}
+header h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+nav a{
+    color: #ffffff;
+}
+
+nav a{
+    margin-right: 20px;
+    color: #dedede;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+
+
+}
